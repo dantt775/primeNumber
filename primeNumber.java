@@ -1,5 +1,5 @@
 public class primeNumber {
-
+//show all prime number from 1 to 100.
     
     public static void main(String[] args) {
         int i;
