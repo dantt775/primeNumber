@@ -3,8 +3,7 @@ public class primeNumber {
     
     public static void main(String[] args) {
         int i;
-        int n;
-        int qtd=0;
+        int n;        
         boolean prime;
         
         
